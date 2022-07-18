@@ -1,1 +1,1 @@
-# PropertFinder-GoBootcamp_Week2
+# Property Finder - Go Bootcamp Week2 Homework
